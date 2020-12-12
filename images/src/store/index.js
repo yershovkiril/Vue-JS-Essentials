@@ -12,6 +12,3 @@ export default new Vuex.Store({
   },
 
 })
-
-//ID
-//Secret 95ab435967ed030b2df0ef3d286c0a2f33a3adc5
